@@ -17,5 +17,5 @@ pip install -U flask
 ```bash
 git clone https://github.com/Enokisan/SHISOKU
 cd SHISOKU
-python main.py
+python3 main.py
 ```
